@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459813178779",
+    "firebase_url": "https://rajasthanstreets-70b16.firebaseio.com",
+    "project_id": "rajasthanstreets-70b16",
+    "storage_bucket": "rajasthanstreets-70b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459813178779:android:42d5dd86536041d9",
+        "android_client_info": {
+          "package_name": "in.theinvincibleindia.rs.rajasthanstreets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459813178779-p3t6t1f45o4ak9vobuqc8fnqidccgc8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.theinvincibleindia.rs.rajasthanstreets",
+            "certificate_hash": "858dcf5dd819262ec0bf8ecf343ea7f311682ea6"
+          }
+        },
+        {
+          "client_id": "459813178779-1tlgc3m4nfb4oksgdtbbrr0afso8om4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeH_k-ETLchohGRjdEy70ESN2sgjDCkGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459813178779-1tlgc3m4nfb4oksgdtbbrr0afso8om4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

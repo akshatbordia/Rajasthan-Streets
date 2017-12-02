@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="in.theinvincibleindia.rs.rajasthanstreets.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="385dp"
+        android:layout_height="56dp"
+        app:srcCompat="@drawable/fblogin"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="385dp"
+        android:layout_height="56dp"
+        app:srcCompat="@drawable/downloadaa"
+        tools:layout_editor_absoluteY="227dp"
+        android:layout_marginLeft="0dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+
+
+
+    <Button
+        android:id="@+id/Skip"
+        android:layout_width="88dp"
+        android:layout_height="48dp"
+        android:background="@color/colorPrimary"
+        android:text="Skip"
+        android:textColor="@android:color/background_dark"
+        tools:layout_editor_absoluteX="289dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+
+</android.support.constraint.ConstraintLayout>
