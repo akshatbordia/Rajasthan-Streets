@@ -19,7 +19,7 @@
         <activity
             android:name=".ItemListActivity"
             android:label="@string/title_item_list"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ItemDetailActivity"
             android:label="@string/title_item_detail"
@@ -29,6 +29,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="in.theinvincibleindia.rs.rajasthanstreets.ItemListActivity" />
         </activity>
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
